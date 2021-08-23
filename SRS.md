@@ -11,7 +11,7 @@ base fee. Users must register a card to autopay drivers the approved amount.
 
 **Foodie**: will create a delivery mission to pick up their food from a restaurant.
 
-**Driver**: can accept delivery missions, and manage income.
+**Driver**: can accept delivery missions and manage income.
 
 Primary stakeholders have decided that Foodar users should have the ability to
 register for a Foodar account and view a simple website that advertises its
