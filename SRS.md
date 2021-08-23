@@ -26,13 +26,11 @@ some coding. We'll add more information to the SRS in a later activity.
 
 The purpose of this document is to provide a guide for developers and testers who are responsible for the development of the platform. It provides the information necessary to design, develop, and test the software.
 
- 
 
 ### Scope
 
 This document serves as a description of the required improvements to the project. It contains a workflow description, functional and nonfunctional requirements, and appropriate diagrams to fully describe the system.
 
- 
 
 ### System Overview
 
@@ -44,6 +42,20 @@ This enterprise project consists of one layer; the front-end. This layer is the 
 
 The above graphic describes the different components that you'll use to implement using the technologies that we'll introduce to you. It follows a design pattern called MVC or Model, View, Controller. For now you just need to know that it consists of three parts"
 
-one that is the visual part that users interact with - the view,
-one that represents the object being modeled - the model,
-and something that manages data between the different parts - the controller.
+- one that is the visual part that users interact with: the view,
+- one that represents the object being modeled: the model,
+- and something that manages data between the different parts: the controller.
+
+
+The Use Cases for Foodar are below.
+
+1. All Users
+    1. Request System
+        1. Create a request to find nearest driver
+        2. Cancel a request
+        3. Quote a request
+        4. Track cooking time of recipe
+    2. Member System
+        1. Register a new member
+        2. Sign-in a member
+        3. Track requests
