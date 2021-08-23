@@ -59,3 +59,7 @@ The Use Cases for Foodar are below.
         1. Register a new member
         2. Sign-in a member
         3. Track requests
+
+
+![about.html wireframe](./images/img_ABOUT_wireframe.JPG)
+
